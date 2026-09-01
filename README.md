@@ -42,11 +42,12 @@ Here is an overview of some of the powerful skills included in this repository:
 | **Code & Architecture** | `uaaf-full` & `uaaf-lean` | Universal App Architect Frameworks for building scalable apps. |
 | | `code-review` | Context-aware, automated code reviews for AI agents. |
 | | `safe-coding-practices` | Strategies for safe, non-breaking code modifications. |
+| | `codebase-flow-diagrams` | Generates flow diagrams & deep code explanations with real-life analogies. |
 | **Specialized Workflows**| `scrapegraph-ai` | AI-powered web scraping pipelines. |
 | | `omnichannel-promotion` | SEO/AEO optimization and omnichannel marketing strategies. |
 | | `watermarks-remover` | Tooling for AI provenance mark cleaning and management. |
 
-*(Explore the full list of 60+ skills in the root directories!)*
+*(Explore the full list of 175+ skills in the root directories!)*
 
 ---
 
