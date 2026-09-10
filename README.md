@@ -78,3 +78,8 @@ This repository is licensed under the MIT License - see the LICENSE file for det
 <div align="center">
   <i>Built with 💡 for the future of AI Engineering.</i>
 </div>
+
+
+## Prerequisites
+- Required environment and dependencies
+
